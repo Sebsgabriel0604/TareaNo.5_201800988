@@ -1,0 +1,12 @@
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\bin\Debug\TareaNo.5_201800988.exe.config
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\bin\Debug\TareaNo.5_201800988.exe
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\bin\Debug\TareaNo.5_201800988.pdb
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\bin\Debug\TareaNo.5_201800988.xml
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.vbproj.AssemblyReference.cache
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo._5_201800988.Resources.resources
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.vbproj.GenerateResource.cache
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.vbproj.CoreCompileInputs.cache
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.exe
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.xml
+C:\Users\sebsg\Downloads\TareaNo.5_201800988\TareaNo.5_201800988\obj\Debug\TareaNo.5_201800988.pdb
